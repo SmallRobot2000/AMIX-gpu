@@ -1,3 +1,3 @@
 VIVADO projet folder
 
-main sorces: AMIX_GPU_FPGA.srcs/sources_1/
+main sorces: AMIX_GPU_FPGA.srcs/sources_1/new
