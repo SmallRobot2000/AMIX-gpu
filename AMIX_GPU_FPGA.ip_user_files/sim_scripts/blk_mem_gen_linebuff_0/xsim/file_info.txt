@@ -1,0 +1,2 @@
+blk_mem_gen_linebuff_0.v,verilog,xil_defaultlib,../../../../AMIX_GPU_FPGA.gen/sources_1/ip/blk_mem_gen_linebuff_0/sim/blk_mem_gen_linebuff_0.v,incdir="../../../../../../../../opt/Vivado/2025.2/data/rsb/busdef"
+glbl.v,Verilog,xil_defaultlib,glbl.v
